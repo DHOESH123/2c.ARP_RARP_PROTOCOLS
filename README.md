@@ -1,4 +1,4 @@
-# 2c.SIMULATING ARP /RARP PROTOCOLS
+## 2c.SIMULATING ARP /RARP PROTOCOLS
 ## NAME : ESHWAR T
 ## REGISTER NUMBER : 212223230054
 ## AIM
@@ -79,9 +79,11 @@ while True:
 ```
 ## OUPUT -RARP
 ### CLIENT OUTPUT
-![](./CLIENT2.png)
+![client](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/c5353846-8295-42ad-a268-8be4e6ac4f1b)
+
 ### SERVER OUTPUT
-![](./SERVER2.png)
+![client](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/2e83e88c-5fcf-43ea-b8c5-d8f6ef6ff477)
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
