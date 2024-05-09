@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## NAME : SANJAY.C
-## REGISTER NUMBER : 212223240150
+## NAME : ESHWAR T
+## REGISTER NUMBER : 212223230054
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
