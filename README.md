@@ -47,9 +47,11 @@ while True:
 ```
 ## OUPUT - ARP
 ### CLIENT OUTPUT
-![](./CLIENT1.png)
+![client1](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/973b10cb-b964-4b78-b5cd-7898dab366f9)
+
 ### SERVER OUTPUT
-![](./SERVER1.png)
+![server 1](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/d6085cf4-b14a-4f9f-a505-084b122accf5)
+
 ## PROGRAM - RARP
 ### CLIENT
 ```py
@@ -79,10 +81,13 @@ while True:
 ```
 ## OUPUT -RARP
 ### CLIENT OUTPUT
-![client](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/c5353846-8295-42ad-a268-8be4e6ac4f1b)
+![Screenshot 2024-05-09 182410](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/d90204f1-6148-4415-9b68-153efa6c77d7)
 
 ### SERVER OUTPUT
-![client](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/2e83e88c-5fcf-43ea-b8c5-d8f6ef6ff477)
+![Screenshot 2024-05-09 182420](https://github.com/DHOESH123/2c.ARP_RARP_PROTOCOLS/assets/150319589/53c93885-1ef1-49ca-b956-2293538e75cf)
+
+
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
